@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="jacksonator:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="jacksonator.war">
+      <element id="artifact" artifact-name="jacksonator:war exploded" />
+    </root>
+  </artifact>
+</component>
